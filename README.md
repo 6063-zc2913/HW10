@@ -12,3 +12,4 @@ when there are many LEDs and resistors on the breadboard,
 some of the metal wires will touch each other and let two LEDs light at the same time. 
 At first I thought it was something wrong in my code, 
 but after checking for a long time I discovered that the metal parts of the two LEDs were in contact with each other.
+![image descr](./circuit.jpg)
